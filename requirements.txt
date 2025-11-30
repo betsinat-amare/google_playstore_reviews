@@ -5,3 +5,12 @@ tqdm
 sqlalchemy
 psycopg2-binary
 python-dotenv
+
+transformers>=4.30
+torch               
+scikit-learn>=1.1
+spacy>=3.4
+nltk
+vaderSentiment
+tqdm
+joblib
